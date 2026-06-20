@@ -1,0 +1,8 @@
+{
+  "top_k": 30,
+  "units": 3,
+  "optimized_coverage_score": 12.000538151263035,
+  "naive_top_density_coverage_score": 9.742751356046528,
+  "simulated_coverage_improvement_pct": 23.174016381063485,
+  "daytime_reallocation": "Recommend moving added coverage into 09:00-18:00 at the top NC-CIS hotspots; this is based on the observed daytime enforcement blind spot."
+}

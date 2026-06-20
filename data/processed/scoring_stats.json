@@ -1,0 +1,39 @@
+{
+  "ranked_hotspots": 501,
+  "graph_nodes": 501,
+  "graph_edges": 1236,
+  "weights": {
+    "density_norm": 0.25,
+    "capacity_loss_norm": 0.2,
+    "centrality_norm": 0.35,
+    "recurrence_norm": 0.2
+  },
+  "graph_mode": "offline_hotspot_knn_graph",
+  "top_hotspot": {
+    "cluster_id": 351,
+    "centroid_lat": 12.99968218376414,
+    "centroid_lon": 77.54938052858658,
+    "point_count": 4183,
+    "grid_cell_count": 4,
+    "unique_records": 4162,
+    "distinct_days": 126,
+    "unique_vehicles": 3209,
+    "daytime_count": 11,
+    "overnight_count": 3201,
+    "evening_count": 922,
+    "no_junction_share": 0.0,
+    "min_lat": 12.99911567040715,
+    "max_lat": 13.000274183990005,
+    "min_lon": 77.54875202532274,
+    "max_lon": 77.55000294279994,
+    "spatial_extent_km": 0.18115407349568036,
+    "betweenness_centrality": 0.1671823647294589,
+    "capacity_loss_proxy": 9.485260770975056,
+    "density_norm": 0.4110127826941986,
+    "capacity_loss_norm": 0.15342137922151175,
+    "centrality_norm": 1.0,
+    "recurrence_norm": 0.8333333333333334,
+    "nc_cis": 0.6501041381845187,
+    "rank": 1
+  }
+}

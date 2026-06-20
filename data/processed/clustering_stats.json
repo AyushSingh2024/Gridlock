@@ -1,0 +1,10 @@
+{
+  "clusterer": "DBSCAN_haversine_grid_fallback",
+  "eps_km": 0.12,
+  "min_samples": 3,
+  "input_grid_cells": 5236,
+  "clustered_grid_cells": 1826,
+  "noise_grid_cells": 3410,
+  "hotspot_count": 501,
+  "silhouette_sample": 0.7088560712579932
+}

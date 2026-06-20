@@ -1,0 +1,4 @@
+# Optional heavier extensions. The code has fallbacks when these are absent.
+hdbscan>=0.8; platform_system != "Windows"
+osmnx>=1.9
+ultralytics>=8.0

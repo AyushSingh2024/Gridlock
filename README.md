@@ -57,6 +57,8 @@ flowchart LR
 
 ## Run
 
+For detailed setup, pipeline, dashboard, and test commands, see [`RUN_INSTRUCTIONS.md`](RUN_INSTRUCTIONS.md).
+
 The bundled Codex Python runtime used during this build is:
 
 ```powershell

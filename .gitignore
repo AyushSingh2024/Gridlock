@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.hypothesis/
+streamlit.out.log
+streamlit.err.log
+jan to may police violation_anonymized791b166.csv
